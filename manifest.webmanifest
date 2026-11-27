@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Home Fitness 5KG",
+  "short_name": "Fitness 5KG",
+  "description": "Tập tại nhà theo thời gian của bạn, với một tạ 5 kg.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101b24",
+  "theme_color": "#101b24",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
