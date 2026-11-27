@@ -2,7 +2,7 @@
   "id": "./",
   "name": "Home Fitness 5KG",
   "short_name": "Fitness 5KG",
-  "description": "Tập tại nhà theo thời gian của bạn, với một tạ 5 kg.",
+  "description": "Tập tại nhà theo thời gian của bạn, không tạ hoặc một, hai tạ theo khả năng.",
   "lang": "vi",
   "start_url": "./",
   "scope": "./",

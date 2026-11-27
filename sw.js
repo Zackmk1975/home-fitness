@@ -1,7 +1,7 @@
 // Generated from the actual build; scope includes the GitHub repository path.
 const PREFIX='hf5kg:'+self.registration.scope+':';
-const CACHE=PREFIX+'2aa651745fe079f4';
-const ASSETS=["./.nojekyll","./THIRD-PARTY-NOTICES.txt","./assets/index-CIxQKfhG.js","./assets/index-DzDa1Vxq.css","./assets/model-HC8ka0_P.js","./icon-192.png","./icon-512.png","./icon.svg","./index.html","./manifest.webmanifest","./models/Trainer.glb"];
+const CACHE=PREFIX+'db46b7867265cb3b';
+const ASSETS=["./.nojekyll","./THIRD-PARTY-NOTICES.txt","./assets/index-BaPXxjgv.js","./assets/index-Es-8aJUS.css","./assets/model-BVr9X51V.js","./icon-192.png","./icon-512.png","./icon.svg","./index.html","./manifest.webmanifest","./models/Trainer.glb"];
 const urls=new Set(ASSETS.map(p=>new URL(p,self.registration.scope).href));
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS))));
 self.addEventListener('activate',event=>event.waitUntil((async()=>{
